@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "adaptiveMobilePCM", "adaptiveMobilePCM.jsproj", "{C7429CEF-912F-4813-A533-2DA4C4C3AA27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Android = Debug|Android
+		Debug|iOS = Debug|iOS
+		Debug|Windows Phone (Universal) = Debug|Windows Phone (Universal)
+		Debug|Windows Phone 8 = Debug|Windows Phone 8
+		Debug|Windows-AnyCPU = Debug|Windows-AnyCPU
+		Debug|Windows-ARM = Debug|Windows-ARM
+		Debug|Windows-x64 = Debug|Windows-x64
+		Debug|Windows-x86 = Debug|Windows-x86
+		Release|Android = Release|Android
+		Release|iOS = Release|iOS
+		Release|Windows Phone (Universal) = Release|Windows Phone (Universal)
+		Release|Windows Phone 8 = Release|Windows Phone 8
+		Release|Windows-AnyCPU = Release|Windows-AnyCPU
+		Release|Windows-ARM = Release|Windows-ARM
+		Release|Windows-x64 = Release|Windows-x64
+		Release|Windows-x86 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Android.ActiveCfg = Debug|Android
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Android.Build.0 = Debug|Android
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Android.Deploy.0 = Debug|Android
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|iOS.ActiveCfg = Debug|iOS
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|iOS.Build.0 = Debug|iOS
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|iOS.Deploy.0 = Debug|iOS
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Windows Phone (Universal).ActiveCfg = Debug|Windows Phone (Universal)
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Windows Phone (Universal).Build.0 = Debug|Windows Phone (Universal)
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Windows Phone (Universal).Deploy.0 = Debug|Windows Phone (Universal)
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Windows Phone 8.ActiveCfg = Debug|Windows Phone 8
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Windows Phone 8.Build.0 = Debug|Windows Phone 8
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Windows Phone 8.Deploy.0 = Debug|Windows Phone 8
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Windows-AnyCPU.ActiveCfg = Debug|Windows-AnyCPU
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Windows-AnyCPU.Build.0 = Debug|Windows-AnyCPU
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Windows-AnyCPU.Deploy.0 = Debug|Windows-AnyCPU
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Windows-ARM.ActiveCfg = Debug|Windows-ARM
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Windows-ARM.Build.0 = Debug|Windows-ARM
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Windows-ARM.Deploy.0 = Debug|Windows-ARM
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Windows-x64.ActiveCfg = Debug|Windows-x64
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Windows-x64.Build.0 = Debug|Windows-x64
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Windows-x64.Deploy.0 = Debug|Windows-x64
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Windows-x86.ActiveCfg = Debug|Windows-x86
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Windows-x86.Build.0 = Debug|Windows-x86
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Debug|Windows-x86.Deploy.0 = Debug|Windows-x86
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Android.ActiveCfg = Release|Android
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Android.Build.0 = Release|Android
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Android.Deploy.0 = Release|Android
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|iOS.ActiveCfg = Release|iOS
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|iOS.Build.0 = Release|iOS
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|iOS.Deploy.0 = Release|iOS
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Windows Phone (Universal).ActiveCfg = Release|Windows Phone (Universal)
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Windows Phone (Universal).Build.0 = Release|Windows Phone (Universal)
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Windows Phone (Universal).Deploy.0 = Release|Windows Phone (Universal)
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Windows Phone 8.ActiveCfg = Release|Windows Phone 8
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Windows Phone 8.Build.0 = Release|Windows Phone 8
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Windows Phone 8.Deploy.0 = Release|Windows Phone 8
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Windows-AnyCPU.ActiveCfg = Release|Windows-AnyCPU
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Windows-AnyCPU.Build.0 = Release|Windows-AnyCPU
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Windows-AnyCPU.Deploy.0 = Release|Windows-AnyCPU
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Windows-ARM.ActiveCfg = Release|Windows-ARM
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Windows-ARM.Build.0 = Release|Windows-ARM
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Windows-ARM.Deploy.0 = Release|Windows-ARM
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Windows-x64.ActiveCfg = Release|Windows-x64
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Windows-x64.Build.0 = Release|Windows-x64
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Windows-x64.Deploy.0 = Release|Windows-x64
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Windows-x86.ActiveCfg = Release|Windows-x86
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Windows-x86.Build.0 = Release|Windows-x86
+		{C7429CEF-912F-4813-A533-2DA4C4C3AA27}.Release|Windows-x86.Deploy.0 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://adaptiveserver:8070/tfs/defaultcollection
+		SccProjectUniqueName0 = adaptiveMobilePCM.jsproj
+		SccProjectName0 = .
+		SccAuxPath0 = http://adaptiveserver:8070/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal
